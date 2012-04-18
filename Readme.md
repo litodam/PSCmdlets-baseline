@@ -1,4 +1,4 @@
-﻿# PowerShell Custom Cmdelts Baseline Solution #
+﻿# Creating custom PowerShell Cmdlets - Baseline Solution #
 
 This solution is mainly a spike aimed to solve how to provide the proper abstractions in order to develop custom Cmdlets in a TDD fahion. 
 
